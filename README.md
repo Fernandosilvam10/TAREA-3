@@ -11,3 +11,4 @@ Para el inciso a) del problema 2 obtuvimos una aproximación más que aceptable,
 
 Para el inciso b) del problema 2 obtuvimos una aproximación aún mejor, con un valor de loss final de 0.0016, prácticamente despreciable.
 
+Para el inciso a) del problema 1 obtuvimos una aproximación muy buena, un buen entrenamiento, con un valor de loss final de 0.016.

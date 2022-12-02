@@ -8,3 +8,6 @@ El inciso a, consta de límites de -1 a 1. Implementamos 5 capas a la red neuron
 Se logró compilar los códigos teniendo los resultados siguientes:
 
 Para el inciso a) del problema 2 obtuvimos una aproximación más que aceptable, con un loss final de 0.0241.
+
+Para el inciso b) del problema 2 obtuvimos una aproximación aún mejor, con un valor de loss final de 0.0016, prácticamente despreciable.
+

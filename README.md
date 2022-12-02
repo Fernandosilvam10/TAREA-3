@@ -12,3 +12,5 @@ Para el inciso a) del problema 2 obtuvimos una aproximación más que aceptable,
 Para el inciso b) del problema 2 obtuvimos una aproximación aún mejor, con un valor de loss final de 0.0016, prácticamente despreciable.
 
 Para el inciso a) del problema 1 obtuvimos una aproximación muy buena, un buen entrenamiento, con un valor de loss final de 0.016.
+
+Obtuvimos un inconveniente para el problema 1 inciso b), ya que persistió el problema 'method' object is not iterable y por ende no pudimos compilar, pero corrigiendo ese detalle sutil se confía en tener una red con un valor similar de loss final como en los otros 3 codigos realizados.
